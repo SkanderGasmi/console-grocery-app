@@ -1,6 +1,3 @@
-Sure! Here’s the **same README fully formatted in proper Markdown** (`.md`) style, ready to save as `README.md`:
-
-````markdown
 # Grocery Shop Console Application
 
 ![Java](https://img.shields.io/badge/Java-JDK%2021-orange)
@@ -75,13 +72,14 @@ The project focuses on building a **clean, structured command-line application**
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/grocery-shop-console.git
-cd grocery-shop-console
+git clone https://github.com/SkanderGasmi/console-grocery-app.git
+cd console-grocery-app
 ````
 
 2. Compile the application:
 
 ```bash
+cd /src/
 javac GroceryShopApp.java
 ```
 
@@ -111,14 +109,3 @@ It also served as a foundation for thinking about **inventory systems, billing l
 * Convert to a GUI or web-based application
 
 ---
-
-## License
-
-This project is open for educational and personal use.
-
-```
-
----
-
-If you want, I can also **add nice placeholders for screenshots** and badges, like a “Running app screenshot” section, so it looks more like a polished GitHub repo. Do you want me to do that?
-```
